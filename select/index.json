@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "エンドロール（feat. 重音テト）",
+  "base_artist": "hiroki.",
+  "createdAt": "2026-02-28T08:04:45.278610Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エンドロール (feat. 重音テト)",
+      "artist": "hiroki.",
+      "has_synced": false,
+      "path": "select/pl_01_エンドロール_(feat._重音テト)_hiroki..txt"
+    }
+  ]
+}
